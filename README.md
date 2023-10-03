@@ -1,6 +1,6 @@
 ADD: export NODE_OPTIONS=--openssl-legacy-provider
 
-# Redux Essentials Tutorial Example
+# Redux Application
 
 This project contains the setup and code from the "Redux Essentials" tutorial in the Redux docs ( https://redux.js.org/tutorials/essentials/part-1-overview-concepts ).
 
